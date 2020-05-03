@@ -1,4 +1,4 @@
-regular_bot
+bot
 ====
 ## Description
 GCPでサーバーレスに運用するbot
